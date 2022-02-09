@@ -1,0 +1,175 @@
+JavaScript is a client side Language-
+
+1st run your JS on any browser like chrome
+
+Press - Ctrl + Shift + I ---> to open console of browser
+and then perform your JS operations there for entry level--
+
+example -
+	1. console.log("Hello world");
+	This above line will run & print 'Hello world' in console
+
+	OR 
+	2. alert("Hello world")
+	This above line will also run & print 'Hello world' in console
+
+* You can perform various operation on this console
+like - multiplication, addition, division, subtraction etc..
+
+and also you can perform certain actions using JS commands and funtions 
+for ex -
+document.querySelector(".gNO89b") ---by this command you can access elements on the page that you're in ..
+This will give you following output -->
+
+<input class="gNO89b" value="Google Search" aria-label="Google Search" name="btnK" type="submit" data-ved="0ahUKEwjA4IK-z-z1AhVGs1YBHf_UCBkQ4dUDCAc">
+
+
+
+**** ABOUT JS ****
+JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. ... JavaScript can function as both a procedural and an object oriented language.
+
+
+Basic Requirements to build website
+HTML - must / skeleton of website
+CSS - Designing
+JavaScript - must / client side scripting
+
+
+For example-
+A Car -
+HTML - Metallic body of car
+CSS - car designs and colors
+Javascript - Car's engine
+
+
+Javascript and Css are embedded in HTML
+
+
+HTML --->
+- HTML is stands for HyperText Markup Language.
+- It is basically a standard markup language for giving a static skeleton to web application and websites.
+- Its a well standardized system.
+
+
+CSS ---->
+- Cascading Style Sheets is known as CSS is a style sheet language that used to handle the presentation of the web page containing HTML.
+- It makes our websites beautiful and modern looking.
+
+
+JavaScript ---->
+- JavaScript which is often known as JS, is a high-level dynamic interpreted programming language.
+- It allows client-side scripting to create completely dynamic web application and websites.
+- JavaScript was intially designed for making pages "alive".
+- Scripts can be executed in the browser itself.
+- JS and Java are different programming languages.
+- It can be executed on the browser as well as the server.
+- JS is a safe language when used in browser.
+- There are languages that get "transpiled" to JS.
+
+
+Install VS Code - 
+
+Basic HTML 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+
+
+
+I have done 2 projects using HTML and Javascript:-
+Project 1 --> Name --> Live Updating Clock with Date.
+			  This project is done using HTML and JS.
+			  This project is done with the help of 'bootstrap' and Editor --> 'visual code'.
+			  
+			  
+			  
+Project 2 --> Name --> ToDos List to manage your whole day.
+			  This project is done using HTML and JS.
+			  This project is done with the help of 'bootstrap' and Editor --> 'visual code'.
+			  
+
+
+
+Imp Points --
+1.	Run your projects with LiveServer available in Visual Code.
+2.	First install VS Code in your machine.
+3.	Then Install LiveServer Extension in VS Code.
+4.  Install "Prettier" code formatting extension in VS Code for better code formatting and after installing it set it to default.
+5.	Then Install JavaScript extension in VS Code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
